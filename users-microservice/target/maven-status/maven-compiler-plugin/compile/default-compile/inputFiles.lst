@@ -1,0 +1,13 @@
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\security\JWTAuthorizationFilter.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\repos\UserRepository.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\security\JWTAuthenticationFilter.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\repos\RoleRepository.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\UsersMicroserviceApplication.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\security\SecParams.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\service\UserServiceImpl.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\service\UserService.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\entities\Role.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\entities\User.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\security\MyUserDetaillsService.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\security\SecurityConfig.java
+C:\Users\fkifa\Documents\workspace-spring-tool-suite-4-4.18.0.RELEASE\users-microservice\src\main\java\com\farah\users\restControllers\UserRestController.java
